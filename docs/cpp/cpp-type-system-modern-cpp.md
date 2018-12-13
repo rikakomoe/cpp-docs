@@ -35,7 +35,7 @@ double coefficient = 10.8;   // Declare and initialize a floating
 auto name = "Lady G.";       // Declare a variable and let compiler
                              // deduce the type.
 auto address;                // error. Compiler cannot deduce a type
-                             // without an intializing value.
+                             // without an initializing value.
 age = 12;                    // error. Variable declaration must
                              // specify a type or use auto!
 result = "Kenny G.";         // error. Can’t assign text to an int.
